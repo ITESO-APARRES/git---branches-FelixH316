@@ -1,3 +1,5 @@
+// AUTHOR: 	FÉLIX ARMENTA AGUIÑAGA
+// DATE:	2022-10-13
 
 #include <stdio.h>
 
